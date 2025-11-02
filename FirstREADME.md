@@ -11,7 +11,19 @@
 <br>
 📈 Busco evoluir um pouco mais a cada commit.
 
+📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seu-link) | [Portfólio](https://seusite.com)
 
+---
+
+🧰 Tecnologias que uso
+HTML | CSS | JavaScript | Node.js | React | Git | GitHub
+
+---
+
+🚀 Projetos em destaque
+- [Conversor de Moedas](https://github.com/Jjethro93/conversor-moedas) – App com atualização dinâmica de valores.  
+- [Site Vitrine responsive](https://github.com/Jjethro93/JS_Mario_Encanador) – Feito com HTML5 e CSS3.
+- [Site de Cadastro de Usuarios](github.com/Jjethro93/Cadastro-de-usuarios)-Feito com React.  
 
 [![Jethro stats](https://github-readme-stats.vercel.app/api?username=Jjethro93)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjethro93)](https://github.com/anuraghazra/github-readme-stats)
