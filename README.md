@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é Jethro. 
-💻 Sou desenvolvedor front-end iniciante, 📚 aprendendo: <br>
+💻 Sou desenvolvedor front-end, 📚 aprendendo: <br>
 	<br>
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html_logo"/>
  <br> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css_logo" />
