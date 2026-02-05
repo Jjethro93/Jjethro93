@@ -21,7 +21,7 @@ HTML | CSS | JavaScript | Node.js | React | Git | GitHub
 ---
 
 🚀 Projetos em destaque
-- [Conversor de Moedas](https://github.com/Jjethro93/conversor-moedas) – App com atualização dinâmica de valores.  
+- [Conversor de Moedas](https://jjethro93.github.io/Conversor-de-moeda/) – App com atualização dinâmica de valores.  
 - [Site Vitrine responsive](https://github.com/Jjethro93/JS_Mario_Encanador) – Feito com HTML5 e CSS3.
 - [Site de Cadastro de Usuarios](github.com/Jjethro93/Cadastro-de-usuarios)-Feito com React.  
 
